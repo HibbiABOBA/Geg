@@ -1,5 +1,8 @@
 #include <iostream>
-
+//
+// This program is just an example one under VCS.
+// Authors:Makarov,Biktagirov, Kazancev, Unanyan. KE-417
+// 2023
 using namespace std;
 
 int main()
@@ -12,4 +15,6 @@ int main()
     cout<<a<<endl<<b<<endl;
 cout<<"sum = "<<a+b<<endl;
 cout<<"razn = "<<a-b<<endl;
+cout<<"proizv = "<<a*b<<endl;
+return 0;
 }
