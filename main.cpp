@@ -10,4 +10,5 @@ int main()
     cin>>b;
     cout<<a<<endl<<b<<endl;
 cout<<"sum = "<<a+b<<endl;
+cout<<"razn = "<<a-b<<endl;
 }
