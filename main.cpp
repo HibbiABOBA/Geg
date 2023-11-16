@@ -15,6 +15,6 @@ int main()
     cout<<a<<endl<<b<<endl;
 cout<<"sum = "<<a+b<<endl;
 cout<<"razn = "<<a-b<<endl;
-
+cout<<"delenie = "<<a/b<<endl;
 return 0;
 }
