@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //eto ychebnay programma
     int a,b;
     cout<<"vvedite chisla"<<endl;
     cin>>a;
