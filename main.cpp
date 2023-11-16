@@ -9,5 +9,5 @@ int main()
     cin>>a;
     cin>>b;
     cout<<a<<endl<<b<<endl;
-
+cout<<"sum = "<<a+b<<endl;
 }
